@@ -1,0 +1,24 @@
+/* 
+  Localizable.strings
+  MovieApp
+
+  Created by Davi Cabral de Oliveira on 30/09/18.
+  Copyright © 2018 Davi Cabral de Oliveira. All rights reserved.
+*/
+
+//Error Handling
+"invalidService" = "Invalid Service: this service does not exist.";
+"authenticationFailed" = "Authentication failed: You do not have permissions to access the service.";
+"invalidFormat" = "Invalid format: This service doesn't exist in that format.";
+"invalidParameters" = "Invalid parameters: Your request parameters are incorrect.";
+"invalidID" = "Invalid id: The pre-requisite id is invalid or not found.";
+"invalidAPIKey" = "Invalid API key: You must be granted a valid key.";
+"duplicateEntry" = "Duplicate entry: The data you tried to submit already exists.";
+"serviceOffline" = "Service offline: This service is temporarily offline, try again later.";
+"suspendedAPIKey" = "Suspended API key: Access to your account has been suspended, contact TMDb.";
+"internalError" = "Internal error: Something went wrong, contact TMDb.";
+"failed" = "Failed";
+"deviceDenied" = "Device denied";
+"sessionDenied" = "Session denied";
+"validationFailed" = "Validation failed";
+

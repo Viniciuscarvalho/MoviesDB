@@ -1,2 +1,2 @@
 # MoviesDB
-A project for test TCA architecture on project
+Project to use SwiftUI + architecture from PointFree ( Composable ) 
